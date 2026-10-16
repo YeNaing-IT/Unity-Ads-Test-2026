@@ -14,6 +14,12 @@ A minimal Unity 6 project for testing **Unity Ads** (`com.unity.ads`) on Android
 
 ### The scene's buttons already call the two public methods to show ads:
 
+| Method | What it does |
+|---|---|
+| `ShowAds()` | Loads and shows the interstitial ad |
+| `ShowBannerAds()` | Sets the banner to bottom-centre, then loads and shows it |
+
+
 <img width="415" height="830" alt="image" src="https://github.com/user-attachments/assets/51606465-e7ed-4421-84cd-94883222566f" />
 
 ### Show Ads Screen
@@ -22,11 +28,6 @@ A minimal Unity 6 project for testing **Unity Ads** (`com.unity.ads`) on Android
 ### Show Banner Ads
 <img width="406" height="822" alt="image" src="https://github.com/user-attachments/assets/426149c5-882a-44ec-a2b5-8622b8a5199d" />
 
-
-| Method | What it does |
-|---|---|
-| `ShowAds()` | Loads and shows the interstitial ad |
-| `ShowBannerAds()` | Sets the banner to bottom-centre, then loads and shows it |
 
 ## Notes
 
