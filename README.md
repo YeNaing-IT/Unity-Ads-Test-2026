@@ -12,7 +12,14 @@ A minimal Unity 6 project for testing **Unity Ads** (`com.unity.ads`) on Android
 
 ## Usage
 
-The scene's buttons already call the two public methods. To show ads from your own scripts:
+The scene's buttons already call the two public methods to show ads:
+<img width="415" height="830" alt="image" src="https://github.com/user-attachments/assets/51606465-e7ed-4421-84cd-94883222566f" />
+
+### Show Ads Screen
+<img width="406" height="822" alt="image" src="https://github.com/user-attachments/assets/0d42efe2-0053-413c-83fe-c39a068a6ea6" />
+
+### Show Banner Ads
+<img width="406" height="822" alt="image" src="https://github.com/user-attachments/assets/426149c5-882a-44ec-a2b5-8622b8a5199d" />
 
 
 | Method | What it does |
